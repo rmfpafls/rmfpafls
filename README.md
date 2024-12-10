@@ -15,6 +15,7 @@ Information Communication + Electrical and Electronic Engineering
 # 🚀 Skills
 
 Programming Languages  
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=SQL&logoColor=white">
 
 Data Analysis & ML/DL
