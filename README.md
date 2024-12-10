@@ -4,9 +4,11 @@ Welcome to my GitHub profile. I'm a passionate **AI Developer** with a backgroun
 
 # 👩‍💻 About Me
 🎓 Major
+
 Information Communication + Electrical and Electronic Engineering
 
 📖 Education & Training 
+
 [2024.07 - 2024.11] SeSAC AI 개발자 과정 / SeSAC AI Developer Bootcamp
 
 
