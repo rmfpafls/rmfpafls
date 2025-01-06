@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm a passionate **AI Developer** with a backgroun
 # 👩‍💻 About Me
 🎓 Major
 
-Information Communication + Electrical and Electronic Engineering
+Information and communication engineering + Electrical and Electronic Engineering
 
 📖 Education & Training 
 
