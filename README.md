@@ -11,7 +11,7 @@ Information and communication engineering + Electrical and Electronic Engineerin
 📖 Education & Training 
 
 [2024.07 - 2024.11] SeSAC AI 개발자 과정 / SeSAC AI Developer Bootcamp
-
+[2025.01 - 2025.02] LG Aimers 6기 / 난임 환자 대상 임신 성공 예측 공모전
 
 # 🚀 Skills
 
