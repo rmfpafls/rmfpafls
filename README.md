@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hyunji! 
 
-Welcome to my GitHub profile. I'm a passionate **AI Developer** with a background in **Information Communication + Electrical and Electronic Engineering**. I enjoy working on AI, Machine Learning, and creating meaningful projects. 🚀
+Welcome to my GitHub profile. I'm a passionate **AI Developer** with a background in **Information Communication Engineering+ Electrical and Electronic Engineering**. I enjoy working on AI, Machine Learning, and creating meaningful projects. 🚀
 
 
 # 👩‍💻 About Me
