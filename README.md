@@ -66,7 +66,7 @@ Prototyping Platforms
 | Period            | Project Name                                                        | Repositories                                    |
 | ----------------- | ------------------------------------------------------------------- | ----------------------------------------------- |
 | 2021.01 - 2021.12 | Smart Automatic Window                                              |                                                 |
-| 2024.11           | An autonomous driving AI supporter that detects passenger behavior. | https://github.com/rmfpafls/final_project_sesac |
+| 2024.11           | An autonomous driving AI supporter that detects passenger behavior. | https://github.com/rmfpafls/SeSaC_Passenger_BehaviorAI |
 | 2025.01 - 2025.02 | LG Aimers - Infertility Patient Pregnancy Prediction Project        | https://github.com/rmfpafls/LG-Aimers-          |
 
 # 📞Contact
