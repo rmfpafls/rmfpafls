@@ -23,7 +23,7 @@ Information and communication engineering + Electrical and Electronic Engineerin
 - 상담사 업무 지원을 위한 AI Agent 서비스 개발  
 - Azure OpenAI, Azure AI Search 기반 기능 구현  
   
-2. KTDS AI Agent 프로젝트  
+2. KTDS 지존 AI Agent 프로젝트  
 - RAG 기반 AI Agent 아키텍처 설계 및 서비스 개발  
 - 검색 증강 생성(RAG)을 활용한 응답 품질 개선  
 - Azure OpenAI, Azure AI Search 활용
