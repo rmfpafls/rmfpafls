@@ -23,7 +23,7 @@ Information and communication engineering + Electrical and Electronic Engineerin
 - 상담사 업무 지원을 위한 AI Agent 서비스 개발  
 - Azure OpenAI, Azure AI Search 기반 기능 구현  
   
-2. KTDS 지존 AI Agent 프로젝트  
+2. KTDS AI Agent 프로젝트  
 - RAG 기반 AI Agent 아키텍처 설계 및 서비스 개발  
 - 검색 증강 생성(RAG)을 활용한 응답 품질 개선  
 - Azure OpenAI, Azure AI Search 활용
@@ -32,11 +32,23 @@ Information and communication engineering + Electrical and Electronic Engineerin
 
 Programming Languages  
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=SQL&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
+
+Cloud & AI Services
+
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">  <img src="https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+
+Version Control & Collaboration
+
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 
 Data Analysis & ML/DL
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![NumPy](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FECE52?style=for-the-badge&logo=huggingface&logoColor=black)
+
+AI & LLM Engineering
+
+<img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge&logo=data&logoColor=white"> <img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge&logo=openai&logoColor=white"> 
 
 Web
 
@@ -44,7 +56,7 @@ Web
 
 Database Management  
 
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 Version Control & collaboration
 
