@@ -14,6 +14,20 @@ Information and communication engineering + Electrical and Electronic Engineerin
 
 [2025.01 - 2025.02] LG Aimers 6기 / 난임 환자 대상 임신 성공 예측 공모전
 
+
+# 💼 Experience  
+[2024.04 - Present] AI Engineer  
+  
+1. KTDS 상담 Assist 서비스 운영 및 개발  
+- STT 데이터 기반 상담 분석 및 분류 모델 운영 및 성능 개선  
+- 상담사 업무 지원을 위한 AI Agent 서비스 개발  
+- Azure OpenAI, Azure AI Search 기반 기능 구현  
+  
+2. KTDS AI Agent 프로젝트  
+- RAG 기반 AI Agent 아키텍처 설계 및 서비스 개발  
+- 검색 증강 생성(RAG)을 활용한 응답 품질 개선  
+- Azure OpenAI, Azure AI Search 활용
+
 # 🚀 Skills
 
 Programming Languages  
